@@ -230,7 +230,3 @@ Even a small reduction in default rates can lead to significant cost savings for
 
 \---
 
-Link to similar analysis:
-
-https://www.kaggle.com/code/sunnyboyngobeni/crm-credit-risk-modelling-and-analysis
-
