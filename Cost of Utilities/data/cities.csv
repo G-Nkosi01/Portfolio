@@ -1,0 +1,26 @@
+city,country,iso3,region,currency,numbeo_slug
+London,United Kingdom,GBR,Europe,GBP,London
+Berlin,Germany,DEU,Europe,EUR,Berlin
+Paris,France,FRA,Europe,EUR,Paris
+Rome,Italy,ITA,Europe,EUR,Rome
+Warsaw,Poland,POL,Europe,PLN,Warsaw
+Riyadh,Saudi Arabia,SAU,Middle East,SAR,Riyadh
+Abu Dhabi,United Arab Emirates,ARE,Middle East,AED,Abu-Dhabi
+Doha,Qatar,QAT,Middle East,QAR,Doha
+Tokyo,Japan,JPN,Asia,JPY,Tokyo
+Beijing,China,CHN,Asia,CNY,Beijing
+New Delhi,India,IND,Asia,INR,Delhi
+Seoul,South Korea,KOR,Asia,KRW,Seoul
+Singapore,Singapore,SGP,Asia,SGD,Singapore
+Washington DC,United States,USA,North America,USD,Washington
+Ottawa,Canada,CAN,North America,CAD,Ottawa
+Mexico City,Mexico,MEX,North America,MXN,Mexico-City
+Buenos Aires,Argentina,ARG,South America,ARS,Buenos-Aires
+Santiago,Chile,CHL,South America,CLP,Santiago
+Bogota,Colombia,COL,South America,COP,Bogota
+Lima,Peru,PER,South America,PEN,Lima
+Canberra,Australia,AUS,Oceania,AUD,Canberra
+Wellington,New Zealand,NZL,Oceania,NZD,Wellington
+Cairo,Egypt,EGY,Africa,EGP,Cairo
+Nairobi,Kenya,KEN,Africa,KES,Nairobi
+Pretoria,South Africa,ZAF,Africa,ZAR,Pretoria

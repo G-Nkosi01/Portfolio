@@ -60,8 +60,10 @@ ROC curve and confusion matrix visualisations to assess classifier performance.
 
 **Task**: Analyse data set sourced from Deutsche Bank between 2020-2025 which includes the monthly costs (USD) of basic utilities such as electricity, heating, cooling, water and waste removal. Present the results of the capital cities of the different continents (Europe, Middle East, Asia, N.America, S.America, Oceania and Africa), answer questions that arise from the visualised data, e.g. what is driving the increase/decrease (is it inline with inflation)?
 
-**Skills**: Exploratory Data Analytics, Data Visualisation (Seaborn/Matplotlib), NumPy
-**Tools**: Python, Pandas, Seaborn/Matplotlib
+**Skills**: Exploratory Data Analytics, Data Visualisation (Seaborn/Matplotlib), NumPy, Interactive Dashboards
+**Tools**: Python, Pandas, Seaborn/Matplotlib, HTML/JavaScript
+
+**Project folder:** [Cost of Utilities](Cost%20of%20Utilities/) contains the analysis notebook, data pipeline and interactive dashboard. It separates each city's dollar bill change into local inflation, utilities' real price change and exchange-rate effects.
 
 ---
 ### 🔹 🏎️ F1 10th Place Cup Predictor
